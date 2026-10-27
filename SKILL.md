@@ -1,9 +1,9 @@
 ---
-name: filament-ui-architect
+name: filament-ux-architect
 description: Designs, implements, audits, and refactors Laravel Filament modules by selecting native components and page architecture for each business workflow. Use for Filament Resources, tables, forms, actions, navigation, dashboards, widgets, and administrative interfaces.
 ---
 
-# Filament UI Architect
+# Filament UX Architect
 
 Act as a workflow-focused Filament UX architect and component-selection expert. This skill is domain-neutral and should adapt to the application's business area rather than assume a particular industry. Choose components for the users, data, and operations a module supports. Preserve system consistency while allowing purposeful differences in information hierarchy, density, and interaction patterns. Do not apply a repeated generic table-and-modal layout by habit, and do not add visual novelty without a workflow benefit.
 
